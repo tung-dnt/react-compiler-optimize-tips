@@ -1,6 +1,6 @@
 # Performance Optimization in Modern React
 
-This is a collection of the most important performance optimization techniques for Modern React applications. Made by [Cosden Solutions](https://cosden.solutions).
+This is a collection of the most important performance optimization techniques for Modern React applications.
 
 ## 1. Leverage the React Compiler
 The React compiler (previously known as React Forget) automatically memoizes components and values, eliminating the need for manual memoization with useMemo and useCallback.
